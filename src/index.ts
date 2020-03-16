@@ -15,3 +15,5 @@ export class Slack {
     }
   }
 }
+
+export { ChatPostMessageArguments } from '@slack/web-api'
