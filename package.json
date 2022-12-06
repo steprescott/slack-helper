@@ -21,7 +21,7 @@
     "publish": "npm run compile && npm pack"
   },
   "devDependencies": {
-    "gts": "^1.1.2",
+    "gts": "^3.1.1",
     "typescript": "~3.7.0",
     "@types/node": "^10.0.3"
   },
